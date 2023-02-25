@@ -1,2 +1,2 @@
 #  first-branch
-Creating and Resolving Merge Conflicts Practice
+Creating and Resolving Merge Conflicts Practic
